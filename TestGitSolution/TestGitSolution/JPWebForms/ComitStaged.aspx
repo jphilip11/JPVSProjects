@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    I am doing a fetch and a pull here
     </div>
     </form>
 </body>
