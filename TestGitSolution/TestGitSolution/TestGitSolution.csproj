@@ -180,6 +180,13 @@
     <Compile Include="JPWebForms\AprilForm.aspx.designer.cs">
       <DependentUpon>AprilForm.aspx</DependentUpon>
     </Compile>
+    <Compile Include="JPWebForms\ComitStaged.aspx.cs">
+      <DependentUpon>ComitStaged.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JPWebForms\ComitStaged.aspx.designer.cs">
+      <DependentUpon>ComitStaged.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
@@ -194,6 +201,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="JPWebForms\AprilForm.aspx" />
+    <Content Include="JPWebForms\ComitStaged.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
